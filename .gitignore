@@ -1,3 +1,7 @@
-node_modules/
-.npm-cache/
+.dotnet/
+bin/
+obj/
+.vs/
 dist/
+*.user
+*.suo
